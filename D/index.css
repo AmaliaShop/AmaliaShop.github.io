@@ -1,0 +1,54 @@
+img{
+	position: top;
+	width: 100%;
+
+}
+input{
+	position: top;
+	width: 100%;
+
+}
+
+
+a{
+	
+	background-size: absolute;
+
+	border-size: 12px;
+	border-color: rgb(1 1 1);
+	text-orientation: center;
+	
+
+	font-variant-position: center;
+	font-color: rgb(1 1 1);
+   text-align: center;
+   font-position: center;
+   font-variant: small-caps;
+   font-style: initial;
+   font-family: Calibri;
+   font-size: 400%;
+
+   
+   
+
+	
+
+   text-decoration: none;
+   
+   
+}
+p{
+	background-color: rgb(240 240 240);
+	padding-bottom: 20px;
+	padding-top: 20px;
+	text-align: center;
+}
+.mysearch input[type=text] {
+float: left; /* Выравниваем строку поиска по левому краю, а все остальные элементы обтекают ее по правому краю.*/
+background: #e0d1d1; /* Устанавливаем цвет фона */
+padding: 10px;/* Задаем поля вокруг текста */
+border: 2px solid black; /* Устанавливаем рамку */
+margin-top: 15px; /* Задаем отступ сверху */
+margin-right: 12px; /* Задаем отступ справа */
+font-size: 14px; /* Указываем размер шрифта */
+}
