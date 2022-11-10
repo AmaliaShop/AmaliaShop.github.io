@@ -16,12 +16,12 @@ a{
 
 	border-size: 12px;
 	border-color: rgb(1 1 1);
-	
+	text-orientation: center;
 	
 
 	font-variant-position: center;
 	font-color: rgb(1 1 1);
-   
+   text-align: center;
    font-position: center;
    font-variant: small-caps;
    font-style: initial;
@@ -34,27 +34,8 @@ a{
 
 h1{
 	background-color: rgb(240 240 240);
-	padding-bottom: 10px;
-	padding-top: 10px;
-	
-}
-.call{
+	padding-bottom: 20px;
+	padding-top: 20px;
 	text-align: center;
-	position: center;
-	background-size: absolute;
-
-	border-size: 12px;
-	border-color: rgb(1 1 1);
-	
-	
-
-	font-variant-position: center;
-	font-color: rgb(1 1 1);
-   
-   font-position: center;
-   font-variant: small-caps;
-   font-style: initial;
-   font-family: Calibri;
-   font-size: 400%;
-   text-decoration: none;
 }
+
